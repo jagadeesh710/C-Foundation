@@ -1,0 +1,3 @@
+enumColor {RED,GREEN,BLUE,WHITE,BLACK};
+enumColor code;code = GREEN;
+//if(code == RED)
